@@ -1,0 +1,12 @@
+[2026-10-01 11:27:26,091] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.25.239.246:8080
+[2026-10-01 11:27:26,091] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2026-10-01 11:28:06,458] 97 werkzeug - INFO - 127.0.0.1 - - [01/Oct/2026 11:28:06] "GET / HTTP/1.1" 200 -
+[2026-10-01 11:28:06,602] 97 werkzeug - INFO - 127.0.0.1 - - [01/Oct/2026 11:28:06] "GET /static/styles.css HTTP/1.1" 200 -
+[2026-10-01 11:28:06,634] 97 werkzeug - INFO - 127.0.0.1 - - [01/Oct/2026 11:28:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2026-10-01 11:29:29,407] 75 root - INFO - Dataframe Gathered
+[2026-10-01 11:29:29,472] 97 werkzeug - INFO - 127.0.0.1 - - [01/Oct/2026 11:29:29] "POST / HTTP/1.1" 200 -
+[2026-10-01 11:34:56,042] 97 werkzeug - INFO - 127.0.0.1 - - [01/Oct/2026 11:34:56] "GET / HTTP/1.1" 200 -
+[2026-10-01 11:34:56,052] 97 werkzeug - INFO - 127.0.0.1 - - [01/Oct/2026 11:34:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -

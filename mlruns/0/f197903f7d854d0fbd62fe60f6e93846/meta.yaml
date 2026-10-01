@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/KALYAN/Desktop/Heart%20Disease%20Prediction/mlruns/0/f197903f7d854d0fbd62fe60f6e93846/artifacts
+end_time: 1790714283903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f197903f7d854d0fbd62fe60f6e93846
+run_name: blushing-ant-789
+run_uuid: f197903f7d854d0fbd62fe60f6e93846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790714276983
+status: 4
+tags: []
+user_id: Jay

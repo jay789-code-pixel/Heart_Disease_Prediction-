@@ -1,0 +1,41 @@
+[2026-09-30 02:14:02,533] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.25.235.123:8080
+[2026-09-30 02:14:02,533] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2026-09-30 02:14:03,072] 75 root - INFO - Dataframe Gathered
+[2026-09-30 02:14:03,141] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:14:03] "POST / HTTP/1.1" 200 -
+[2026-09-30 02:15:05,586] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:15:05] "GET / HTTP/1.1" 200 -
+[2026-09-30 02:15:13,189] 75 root - INFO - Dataframe Gathered
+[2026-09-30 02:15:13,189] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:15:13] "POST / HTTP/1.1" 200 -
+[2026-09-30 02:15:51,026] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:15:51] "GET / HTTP/1.1" 200 -
+[2026-09-30 02:15:51,195] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:15:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2026-09-30 02:17:19,042] 75 root - INFO - Dataframe Gathered
+[2026-09-30 02:17:19,048] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:17:19] "POST / HTTP/1.1" 200 -
+[2026-09-30 02:21:21,808] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:21:21] "GET / HTTP/1.1" 200 -
+[2026-09-30 02:21:21,904] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:21:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2026-09-30 02:21:21,965] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:21:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2026-09-30 02:22:40,215] 75 root - INFO - Dataframe Gathered
+[2026-09-30 02:22:40,219] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:22:40] "POST / HTTP/1.1" 200 -
+[2026-09-30 02:22:55,608] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:22:55] "GET / HTTP/1.1" 200 -
+[2026-09-30 02:22:55,646] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:22:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2026-09-30 02:23:44,656] 75 root - INFO - Dataframe Gathered
+[2026-09-30 02:23:44,660] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:23:44] "POST / HTTP/1.1" 200 -
+[2026-09-30 02:23:53,354] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:23:53] "GET / HTTP/1.1" 200 -
+[2026-09-30 02:23:53,399] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:23:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2026-09-30 02:23:54,883] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:23:54] "GET / HTTP/1.1" 200 -
+[2026-09-30 02:23:54,904] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:23:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2026-09-30 02:23:54,934] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:23:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2026-09-30 02:23:57,256] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:23:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2026-09-30 02:23:57,672] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:23:57] "GET / HTTP/1.1" 200 -
+[2026-09-30 02:23:57,691] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:23:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2026-09-30 02:23:57,713] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:23:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2026-09-30 02:27:40,047] 75 root - INFO - Dataframe Gathered
+[2026-09-30 02:27:40,053] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:27:40] "POST / HTTP/1.1" 200 -
+[2026-09-30 02:28:13,495] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:28:13] "GET / HTTP/1.1" 200 -
+[2026-09-30 02:28:13,565] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:28:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2026-09-30 02:30:39,976] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:30:39] "GET / HTTP/1.1" 200 -
+[2026-09-30 02:30:40,019] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:30:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2026-09-30 02:30:40,049] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:30:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2026-09-30 02:32:34,246] 75 root - INFO - Dataframe Gathered
+[2026-09-30 02:32:34,251] 97 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 02:32:34] "POST / HTTP/1.1" 200 -

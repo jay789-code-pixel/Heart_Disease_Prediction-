@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/KALYAN/Desktop/Heart%20Disease%20Prediction/mlruns/0/842747abf8624aada4734515ac2dea88/artifacts
+end_time: 1790714064598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 842747abf8624aada4734515ac2dea88
+run_name: rumbling-donkey-172
+run_uuid: 842747abf8624aada4734515ac2dea88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790714051513
+status: 4
+tags: []
+user_id: Jay

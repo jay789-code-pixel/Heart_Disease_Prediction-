@@ -1,0 +1,4 @@
+[2026-09-30 01:14:59,366] 96 werkzeug - WARNING -  * Debugger is active!
+[2026-09-30 01:14:59,366] 96 werkzeug - INFO -  * Debugger PIN: 124-075-482
+[2026-09-30 01:15:29,482] 96 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 01:15:29] "GET / HTTP/1.1" 200 -
+[2026-09-30 01:17:35,124] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\Jay\\OneDrive\\Documents\\Project exhibition\\Heart-Disease-Prediction\\src\\Heart\\components\\Data_ingestion.py', reloading

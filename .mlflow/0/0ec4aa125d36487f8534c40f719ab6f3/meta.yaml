@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Jay/OneDrive/Documents/Project%20exhibition/Heart-Disease-Prediction/.mlflow/0/0ec4aa125d36487f8534c40f719ab6f3/artifacts
+end_time: 1790714694545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ec4aa125d36487f8534c40f719ab6f3
+run_name: learned-fish-929
+run_uuid: 0ec4aa125d36487f8534c40f719ab6f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790714686540
+status: 3
+tags: []
+user_id: Jay

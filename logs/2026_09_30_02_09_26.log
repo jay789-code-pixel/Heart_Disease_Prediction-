@@ -1,0 +1,31 @@
+[2026-09-30 02:09:29,290] 30 root - INFO - Data ingestion started
+[2026-09-30 02:09:29,290] 36 root - INFO - Dataset missing; downloading the UCI Cleveland dataset
+[2026-09-30 02:09:30,941] 50 root - INFO - Read the Data from the csv file
+[2026-09-30 02:09:30,945] 54 root - INFO - Created the raw data file
+[2026-09-30 02:09:30,945] 56 root - INFO - Splitting the data into train and test
+[2026-09-30 02:09:30,946] 58 root - INFO - Data Splitting is done
+[2026-09-30 02:09:30,950] 62 root - INFO - Created the train and test data files
+[2026-09-30 02:09:30,950] 63 root - INFO - Data ingestion completed
+[2026-09-30 02:09:30,978] 51 root - INFO - read train and test data complete
+[2026-09-30 02:09:30,984] 52 root - INFO - Train Dataframe Head : 
+    age  sex   cp  trestbps   chol  fbs  restecg  thalach  exang  oldpeak  slope   ca  thal  target
+0  29.0  1.0  2.0     130.0  204.0  0.0      2.0    202.0    0.0      0.0    1.0  0.0   3.0       0
+1  57.0  1.0  3.0     150.0  126.0  1.0      0.0    173.0    0.0      0.2    1.0  1.0   7.0       0
+2  69.0  1.0  1.0     160.0  234.0  1.0      2.0    131.0    0.0      0.1    2.0  1.0   3.0       0
+3  65.0  0.0  3.0     160.0  360.0  0.0      2.0    151.0    0.0      0.8    1.0  0.0   3.0       0
+4  52.0  1.0  4.0     108.0  233.0  1.0      0.0    147.0    0.0      0.1    1.0  3.0   7.0       0
+[2026-09-30 02:09:30,988] 53 root - INFO - Test Dataframe Head : 
+    age  sex   cp  trestbps   chol  fbs  restecg  thalach  exang  oldpeak  slope   ca  thal  target
+0  53.0  1.0  3.0     130.0  246.0  1.0      2.0    173.0    0.0      0.0    1.0  3.0   3.0       0
+1  54.0  1.0  4.0     110.0  206.0  0.0      2.0    108.0    1.0      0.0    2.0  1.0   3.0       1
+2  56.0  1.0  4.0     125.0  249.0  1.0      2.0    144.0    1.0      1.2    2.0  1.0   3.0       1
+3  58.0  1.0  4.0     100.0  234.0  0.0      0.0    156.0    0.0      0.1    1.0  1.0   7.0       1
+4  51.0  0.0  4.0     130.0  305.0  0.0      0.0    142.0    1.0      1.2    2.0  0.0   7.0       1
+[2026-09-30 02:09:30,988] 27 root - INFO - Data Transformation initiated
+[2026-09-30 02:09:30,988] 30 root - INFO - Numerical Pipeline Initiated
+[2026-09-30 02:09:30,988] 64 root - INFO - Splitting input and target features complete
+[2026-09-30 02:09:31,045] 68 root - INFO - Applying preprocessing object on training and testing datasets.
+[2026-09-30 02:09:31,046] 77 root - INFO - preprocessing pickle file saved
+[2026-09-30 02:09:31,046] 31 root - INFO - Splitting Dependent and Independent variables from train and test data
+[2026-09-30 02:09:31,355] 52 root - INFO - Model Report: {'Logistic Regression': 0.8852459016393442, 'Naive Bayes': 0.8360655737704918, 'Random Forest Classfier': 0.8360655737704918, 'XG Boost': 0.6557377049180327, 'K Nearest Neighbors': 0.8524590163934426, 'Decision Tree': 0.7540983606557377, 'Support Vector Machine': 0.8688524590163934}
+[2026-09-30 02:09:31,355] 65 root - INFO - Best Model Found, Model Name: Logistic Regression, Accuracy Score: 0.8852459016393442

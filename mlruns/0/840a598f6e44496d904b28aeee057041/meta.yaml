@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/KALYAN/Desktop/Heart%20Disease%20Prediction/mlruns/0/840a598f6e44496d904b28aeee057041/artifacts
+end_time: 1790714449341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 840a598f6e44496d904b28aeee057041
+run_name: merciful-kite-73
+run_uuid: 840a598f6e44496d904b28aeee057041
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790714442865
+status: 4
+tags: []
+user_id: Jay

@@ -1,0 +1,8 @@
+[2026-09-30 02:03:12,455] 30 root - INFO - Data ingestion started
+[2026-09-30 02:03:12,457] 36 root - INFO - Dataset missing; downloading the UCI Cleveland dataset
+[2026-09-30 02:03:15,000] 50 root - INFO - Read the Data from the csv file
+[2026-09-30 02:03:15,005] 54 root - INFO - Created the raw data file
+[2026-09-30 02:03:15,005] 56 root - INFO - Splitting the data into train and test
+[2026-09-30 02:03:15,008] 58 root - INFO - Data Splitting is done
+[2026-09-30 02:03:15,014] 62 root - INFO - Created the train and test data files
+[2026-09-30 02:03:15,014] 63 root - INFO - Data ingestion completed

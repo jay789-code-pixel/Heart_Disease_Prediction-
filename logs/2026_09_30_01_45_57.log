@@ -1,0 +1,20 @@
+[2026-09-30 01:45:59,024] 96 werkzeug - WARNING -  * Debugger is active!
+[2026-09-30 01:45:59,031] 96 werkzeug - INFO -  * Debugger PIN: 124-075-482
+[2026-09-30 01:46:18,989] 96 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 01:46:18] "GET / HTTP/1.1" 200 -
+[2026-09-30 01:46:34,520] 96 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 01:46:34] "GET / HTTP/1.1" 200 -
+[2026-09-30 01:46:34,616] 96 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 01:46:34] "GET /static/styles.css HTTP/1.1" 200 -
+[2026-09-30 01:46:34,649] 96 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 01:46:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2026-09-30 01:46:46,213] 96 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 01:46:46] "GET / HTTP/1.1" 200 -
+[2026-09-30 01:46:46,276] 96 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 01:46:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2026-09-30 01:46:46,322] 96 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 01:46:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2026-09-30 01:47:56,515] 75 root - INFO - Dataframe Gathered
+[2026-09-30 01:47:56,515] 37 root - INFO - Exception Occured in load_object function utils
+[2026-09-30 01:47:56,515] 96 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 01:47:56] "POST / HTTP/1.1" 200 -
+[2026-09-30 01:49:19,867] 96 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 01:49:19] "GET / HTTP/1.1" 200 -
+[2026-09-30 01:49:19,917] 96 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 01:49:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2026-09-30 01:49:21,751] 75 root - INFO - Dataframe Gathered
+[2026-09-30 01:49:21,752] 37 root - INFO - Exception Occured in load_object function utils
+[2026-09-30 01:49:21,756] 96 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 01:49:21] "POST / HTTP/1.1" 200 -
+[2026-09-30 01:49:29,718] 96 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 01:49:29] "GET / HTTP/1.1" 200 -
+[2026-09-30 01:49:29,754] 96 werkzeug - INFO - 127.0.0.1 - - [30/Sep/2026 01:49:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2026-09-30 02:02:57,130] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\Jay\\OneDrive\\Documents\\Project exhibition\\Heart-Disease-Prediction\\src\\Heart\\components\\Data_ingestion.py', reloading

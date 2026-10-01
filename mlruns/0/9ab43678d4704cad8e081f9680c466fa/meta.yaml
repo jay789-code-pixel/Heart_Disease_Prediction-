@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/KALYAN/Desktop/Heart%20Disease%20Prediction/mlruns/0/9ab43678d4704cad8e081f9680c466fa/artifacts
+end_time: 1790714378623
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ab43678d4704cad8e081f9680c466fa
+run_name: stately-snail-587
+run_uuid: 9ab43678d4704cad8e081f9680c466fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790714371641
+status: 4
+tags: []
+user_id: Jay
